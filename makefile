@@ -10,7 +10,7 @@ test: testGrid
 clean:
 	rm -f ./testGrid
 
-testGrid: TestGrid.cpp Grid.cpp Grid.h
+testGrid: TestGrid.cpp Grid.cpp Grid.h GridPriv.h
 	$(CC) TestGrid.cpp Grid.cpp -lglut -lGLEW -lGL -lGLU -lX11 -L/usr/lib/nvidia-375 -Wno-write-strings -o ./testGrid
 
 testg: Test.cpp Grid.cpp Grid.h

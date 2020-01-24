@@ -1,7 +1,7 @@
 CMPUT 350  Assignment 3
 -----------------------
 
-Student Id:
+Student Id: 1518069
             ----------------
 
 
@@ -10,7 +10,7 @@ assignment (fellow students, TAs, books, internet, ...) and how they
 contributed:
 
 
-
+https://en.wikipedia.org/wiki/A*_search_algorithm
 
 
 
@@ -20,6 +20,6 @@ contributed:
 
 Your name in lieu of a signature:
 
-
+	Zhizhou Lu
 
            -----------------------
